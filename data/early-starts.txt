@@ -1,0 +1,15 @@
+start "default"
+	date 16 11 2999
+
+start "deep"
+	date 16 11 2999
+
+start "paradise"
+	date 16 11 2999
+
+start "syndicate"
+	date 16 11 2999
+
+start "hai space"
+	date 16 11 2999
+
