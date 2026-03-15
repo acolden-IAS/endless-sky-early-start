@@ -22,5 +22,5 @@ fi
 rm -rf data
 mkdir data
 grep ^start "${starts_file}" | \
-  awk '{ print $0; printf "\tdate 16 11 2999\n\n"}' \
+  awk '{ print $0; printf "\tdate 16 11 2999\n\ton reveal\n\t\tdate 16 11 2999\n\n"}' \
   > data/early-starts.txt
